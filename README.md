@@ -1,2 +1,2 @@
 # hello-world
-learn create a new repository!
+create a new repository!
